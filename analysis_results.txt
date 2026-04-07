@@ -1,0 +1,73 @@
+RELATORIO ANALITICO - E-COMMERCE
+
+1. Faturamento Total por Mes:
+          mes  faturamento_total
+0  2026-04-01          373723.24
+1  2026-03-01         1811482.37
+2  2026-02-01         1623736.37
+3  2026-01-01         1740305.56
+4  2025-12-01         1684092.19
+5  2025-11-01         1820073.63
+6  2025-10-01         1804580.61
+7  2025-09-01         1831412.00
+8  2025-08-01         1753866.68
+9  2025-07-01         1863330.93
+10 2025-06-01         1830740.02
+11 2025-05-01         1860359.16
+
+2. Faturamento por Categoria:
+      category  faturamento_total
+0   Brinquedos         4519428.95
+1  Eletrônicos         3989964.52
+2       Livros         3881871.67
+3       Roupas         3254052.58
+4       Móveis         3089580.96
+5    Alimentos         2790804.06
+
+3. Quantidade de Pedidos por Estado:
+   state  qtd_pedidos
+0     SE          264
+1     AL          262
+2     RO          251
+3     AM          248
+4     GO          239
+5     RS          238
+6     MT          238
+7     BA          237
+8     AP          236
+9     RN          234
+10    MS          227
+11    DF          220
+12    SP          218
+13    RR          217
+14    PE          215
+15    AC          211
+16    MG          211
+17    CE          210
+18    SC          210
+19    ES          209
+20    RJ          207
+21    PI          198
+22    PA          189
+23    MA          189
+24    PB          188
+25    PR          187
+26    TO          184
+27    NI          108
+
+4. Ticket Medio por Cliente (Geral):
+   ticket_medio_geral
+0         3560.910296
+
+5. Top 10 Produtos Mais Vendidos (em quantidade):
+         product_name  qtd_vendida  faturamento
+0  Aspernatur maiores        288.0    213324.18
+1       Tempora animi        216.0    172851.84
+2      Excepturi ipsa        207.0    175407.66
+3  Beatae repudiandae        204.0    142596.00
+4   Commodi molestiae        200.0    199748.00
+5              At non        199.0     61170.61
+6         Aliquid rem        196.0    192372.04
+7     Quos voluptatem        192.0    144067.20
+8    Ea reprehenderit        190.0     47386.00
+9     Adipisci quidem        189.0    125543.25
